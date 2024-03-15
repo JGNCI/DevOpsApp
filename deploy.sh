@@ -1,4 +1,4 @@
-sudo apt update $$ sudo apt apt install nodejs npm
+sudo apt update $$ sudo apt install nodejs npm
 
 sudo npm install - g pm2
 
